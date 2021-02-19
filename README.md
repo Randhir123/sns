@@ -7,4 +7,4 @@ Run terraform to create infrastucture
     terraform plan
     terraform apply
   
-Hit the endpoint to publish a message to SNS topic and see the response received in SQS queue.
+Hit the endpoint to publish a message to SNS topic and see the response received from SQS queue.
